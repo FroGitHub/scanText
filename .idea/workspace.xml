@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="OCRtest:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7effd13-58bc-46c1-a225-f05a700f28b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/OCRtest_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FileUploadGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Tess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/ambiguous_words.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/ambiguous_words.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/classifier_tester.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/classifier_tester.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/cntraining.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/cntraining.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/combine_lang_model.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/combine_lang_model.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/combine_tessdata.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/combine_tessdata.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/dawg2wordlist.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/dawg2wordlist.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/doc/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/doc/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/doc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libLerc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libarchive-13.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libb2-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libbrotlicommon.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libbrotlidec.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libbz2-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libcairo-2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libcrypto-3-x64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libcurl-4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libdatrie-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libdeflate.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libexpat-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libffi-8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libfontconfig-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libfreetype-6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libfribidi-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libgcc_s_seh-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libgif-7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libgio-2.0-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libglib-2.0-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libgmodule-2.0-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libgobject-2.0-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libgraphite2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libharfbuzz-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libiconv-2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libicudt73.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libicuin73.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libicuuc73.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libidn2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libintl-8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libjbig-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libjpeg-8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libleptonica-6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/liblz4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/liblzma-5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libopenjp2-7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libpango-1.0-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libpangocairo-1.0-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libpangoft2-1.0-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libpangowin32-1.0-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libpcre2-8-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libpixman-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libpng16-16.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libpsl-5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libsharpyuv-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libssh2-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libstdc++-6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libtesseract-5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libthai-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libtiff-6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libunistring-5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libwebp-7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libwebpmux-3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libwinpthread-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/libzstd.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/lstmeval.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/lstmeval.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/lstmtraining.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/lstmtraining.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/merge_unicharsets.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/merge_unicharsets.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/mftraining.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/mftraining.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/set_unicharset_properties.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/set_unicharset_properties.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/shapeclustering.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/shapeclustering.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/ScrollView.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/alto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/ambigs.train" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/api_config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/bigram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/box.train" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/box.train.stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/digits" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/get.images" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/hocr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/inter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/kannada" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/linebox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/logfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/lstm.train" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/lstmbox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/lstmdebug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/makebox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/quiet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/rebox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/strokewidth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/unlv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/configs/wordstrbox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/eng.traineddata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/eng.user-patterns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/eng.user-words" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/osd.traineddata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/pdf.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/piccolo2d-core-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/piccolo2d-extras-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/tessconfigs/batch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/tessconfigs/batch.nochop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/tessconfigs/matdemo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/tessconfigs/msdemo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/tessconfigs/nobatch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/tessconfigs/segdemo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tessdata/ukr.traineddata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tesseract-uninstall.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tesseract.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/tesseract.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/text2image.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/text2image.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/unicharambigs.5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/unicharset.5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/unicharset_extractor.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/unicharset_extractor.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/winpath.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/wordlist2dawg.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/wordlist2dawg.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Tesseract-OCR/zlib1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testOCR.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WQyJyz8fzWTuiWbHEItUroqQ2a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javafx-sdk-21.0.2/lib&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\OCRtest\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\OCRtest\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FileUploadGUI">
+    <configuration name="FileConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FileConverter" />
+      <module name="OCRtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileUploadGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/openlogic-openjdk-jre-8u402-b06-windows-64" />
+      <option name="MAIN_CLASS_NAME" value="org.example.FileUploadGUI" />
+      <module name="OCRtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testOCR" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OCRtest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testOCR" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testOCR.testToReadFromPhoto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OCRtest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testOCR" />
+      <option name="METHOD_NAME" value="testToReadFromPhoto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OCRtest.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/OCRtest_jar/OCRtest.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.FileConverter" />
+      <item itemvalue="Application.FileUploadGUI" />
+      <item itemvalue="JAR Application.OCRtest.jar" />
+      <item itemvalue="JUnit.testOCR" />
+      <item itemvalue="JUnit.testOCR.testToReadFromPhoto" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileUploadGUI" />
+        <item itemvalue="JAR Application.OCRtest.jar" />
+        <item itemvalue="Application.FileConverter" />
+        <item itemvalue="JUnit.testOCR" />
+        <item itemvalue="JUnit.testOCR.testToReadFromPhoto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7effd13-58bc-46c1-a225-f05a700f28b7" name="Changes" comment="" />
+      <created>1696679034103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696679034103</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
